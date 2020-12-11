@@ -1,5 +1,5 @@
 # Hyper
-https://unruffled-minsky-cea9d7.netlify.app/auth/login
+https://unruffled-minsky-cea9d7.netlify.app
 
 # Getting Started with Create React App
 
